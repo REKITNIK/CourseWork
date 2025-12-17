@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file alias="course.json">data/course_source.json</file>
+    <file alias="schema.sql">data/schema.sql</file>
+</qresource>
+</RCC>
